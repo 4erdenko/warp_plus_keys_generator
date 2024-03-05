@@ -30,6 +30,7 @@ pip install -r requirements.txt
 ```
 KEYS=key1,key2,key3,...
 ```
+❗All keys must be already Warp+ for generation new keys. You need at least a one warp+ key!
 4. To start the key generation process, simply run the Python script:
 
 ```bash

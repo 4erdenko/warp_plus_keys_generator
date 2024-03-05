@@ -46,7 +46,7 @@ This script is provided as is without any guarantees or warranty. The author is 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check [issues page](http://github.com/yourusername/your-repo/issues).
+Feel free to check [issues page](http://github.com/4erdenko/warp_plus_keys_generator/issues).
 
 ## License
 

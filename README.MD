@@ -8,7 +8,7 @@ The script automates the following procedures:
 3. Deletes the referral account
 4. Updates the initial license (swap with another license from a predefined list and then swap back to the initial)
 5. Retrieves final quota and checks if Warp Plus is enabled
-6. If Warp Pus is enabled, final license and quota are stored in a JSON file.
+6. If Warp Plus is enabled, final license and quota are stored in a JSON file.
 
 ## Prerequisites
 
